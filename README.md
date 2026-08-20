@@ -3,6 +3,8 @@
 A raylib flip clock: IST in full size with seconds and the date, Pacific time
 smaller underneath.
 
+![flip clock](screenshot.png)
+
 ## Build
 
     make
